@@ -1,4 +1,4 @@
-#!/usr/bin/python -tt
+#!/usr/bin/python3 -tt
 
 # python3.3+ only
 # Example of application of different kinds of decorators

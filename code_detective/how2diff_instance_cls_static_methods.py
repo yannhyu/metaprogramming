@@ -14,4 +14,5 @@ y = YourClass()
 y.do_this_with_instance()
 y.do_this_with_class()
 y.do_this_without_either()
+YourClass.do_this_with_class()
 

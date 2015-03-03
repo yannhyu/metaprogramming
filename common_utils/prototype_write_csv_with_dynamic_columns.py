@@ -1,3 +1,5 @@
+#!/usr/bin/python -tt
+
 import csv
 
 headers = ['Username', 'Date', 'Status', 'provider.cnbc', 
@@ -14,6 +16,7 @@ rows = [{'Username':'testuser', 'Date':'6/11/2014', 'Status':'active',
        ]
 
 # we figure out the headers after looping through all rows
+# for keys
 
 with open('members_dynamic_columns.csv','w') as f:
     f_csv = csv.DictWriter(f, headers)

@@ -1,0 +1,96 @@
+[2015-03-05 23:08:30,499] worker.MemberExportWorker 15 No provider
+[2015-03-05 23:08:30,501] worker.MemberExportWorker 15 
+
+
+
+[2015-03-05 23:08:30,501] worker.MemberExportWorker 15 *** dynamic providers directory start ***
+[2015-03-05 23:08:30,501] worker.MemberExportWorker 15 []
+[2015-03-05 23:08:30,502] worker.MemberExportWorker 15 []
+[2015-03-05 23:08:30,502] worker.MemberExportWorker 15 *** dynamic providers directory end ***
+[2015-03-05 23:08:30,503] worker.MemberExportWorker 15 member_id: dc8d6b7285284e9d87ffff9071d17e4b was exported
+[2015-03-05 23:08:30,505] idx.data.mongo_manager 15 member find criteria: {'brands': {'$in': [u'd3465876e8579c2f422e99b56d8d0567']}, '$or': [{'_id': u'8d7b5760667141a9ba892507f477310a'}, {'aliases.value': u'8d7b5760667141a9ba892507f477310a'}, {'aliases': u'8d7b5760667141a9ba892507f477310a'}]}
+[2015-03-05 23:08:30,505] idx.data.mongo_manager 15 member find count: 1
+
+[2015-03-05 23:08:30,506] worker.MemberExportWorker 15 DB MemberManager.get_for_brand: 2.78949737549e-05
+[2015-03-05 23:08:30,507] worker.MemberExportWorker 15 member_id: 8d7b5760667141a9ba892507f477310a was queried
+[2015-03-05 23:08:30,508] worker.MemberExportWorker 15 No provider
+[2015-03-05 23:08:30,508] worker.MemberExportWorker 15 
+
+
+
+[2015-03-05 23:08:30,508] worker.MemberExportWorker 15 *** dynamic providers directory start ***
+[2015-03-05 23:08:30,509] worker.MemberExportWorker 15 []
+[2015-03-05 23:08:30,510] worker.MemberExportWorker 15 []
+[2015-03-05 23:08:30,510] worker.MemberExportWorker 15 *** dynamic providers directory end ***
+[2015-03-05 23:08:30,510] worker.MemberExportWorker 15 member_id: 8d7b5760667141a9ba892507f477310a was exported
+[2015-03-05 23:08:30,512] idx.data.mongo_manager 15 member find criteria: {'brands': {'$in': [u'd3465876e8579c2f422e99b56d8d0567']}, '$or': [{'_id': u'6f5a201a622a4194a1912b08f9809d36'}, {'aliases.value': u'6f5a201a622a4194a1912b08f9809d36'}, {'aliases': u'6f5a201a622a4194a1912b08f9809d36'}]}
+[2015-03-05 23:08:30,513] idx.data.mongo_manager 15 member find count: 1
+
+[2015-03-05 23:08:30,514] worker.MemberExportWorker 15 DB MemberManager.get_for_brand: 3.40938568115e-05
+[2015-03-05 23:08:30,514] worker.MemberExportWorker 15 member_id: 6f5a201a622a4194a1912b08f9809d36 was queried
+[2015-03-05 23:08:30,514] worker.MemberExportWorker 15 cnbc--->1234567890
+[2015-03-05 23:08:30,515] worker.MemberExportWorker 15 ***key not found position
+[2015-03-05 23:08:30,515] worker.MemberExportWorker 15 0
+[2015-03-05 23:08:30,516] worker.MemberExportWorker 15 ***
+
+
+
+[2015-03-05 23:08:30,517] worker.MemberExportWorker 15 xfinity--->asdfghjklds
+[2015-03-05 23:08:30,517] worker.MemberExportWorker 15 ***key not found position
+[2015-03-05 23:08:30,517] worker.MemberExportWorker 15 1
+[2015-03-05 23:08:30,518] worker.MemberExportWorker 15 ***
+
+
+
+[2015-03-05 23:08:30,519] worker.MemberExportWorker 15 
+
+
+
+[2015-03-05 23:08:30,519] worker.MemberExportWorker 15 *** dynamic providers directory start ***
+[2015-03-05 23:08:30,520] worker.MemberExportWorker 15 [u'cnbc', u'xfinity']
+[2015-03-05 23:08:30,520] worker.MemberExportWorker 15 [u'1234567890', u'asdfghjklds']
+[2015-03-05 23:08:30,521] worker.MemberExportWorker 15 *** dynamic providers directory end ***
+[2015-03-05 23:08:30,521] worker.MemberExportWorker 15 member_id: 6f5a201a622a4194a1912b08f9809d36 was exported
+[2015-03-05 23:08:30,522] idx.data.mongo_manager 15 member find criteria: {'brands': {'$in': [u'd3465876e8579c2f422e99b56d8d0567']}, '$or': [{'_id': u'e3c873f1be9a4aeaaab560258461efb4'}, {'aliases.value': u'e3c873f1be9a4aeaaab560258461efb4'}, {'aliases': u'e3c873f1be9a4aeaaab560258461efb4'}]}
+[2015-03-05 23:08:30,524] idx.data.mongo_manager 15 member find count: 1
+
+[2015-03-05 23:08:30,524] worker.MemberExportWorker 15 DB MemberManager.get_for_brand: 2.38418579102e-05
+[2015-03-05 23:08:30,526] worker.MemberExportWorker 15 member_id: e3c873f1be9a4aeaaab560258461efb4 was queried
+[2015-03-05 23:08:30,526] worker.MemberExportWorker 15 linkedin--->zyx4567khf
+[2015-03-05 23:08:30,527] worker.MemberExportWorker 15 ***key not found position
+[2015-03-05 23:08:30,528] worker.MemberExportWorker 15 2
+[2015-03-05 23:08:30,528] worker.MemberExportWorker 15 ***
+
+
+
+[2015-03-05 23:08:30,529] worker.MemberExportWorker 15 xfinity--->pdr9988bvf
+[2015-03-05 23:08:30,529] worker.MemberExportWorker 15 ***key found position
+[2015-03-05 23:08:30,530] worker.MemberExportWorker 15 1
+[2015-03-05 23:08:30,530] worker.MemberExportWorker 15 ***
+
+
+
+[2015-03-05 23:08:30,531] worker.MemberExportWorker 15 
+
+
+
+[2015-03-05 23:08:30,531] worker.MemberExportWorker 15 *** dynamic providers directory start ***
+[2015-03-05 23:08:30,532] worker.MemberExportWorker 15 [u'cnbc', u'xfinity', u'linkedin']
+[2015-03-05 23:08:30,532] worker.MemberExportWorker 15 ['', u'pdr9988bvf']
+[2015-03-05 23:08:30,533] worker.MemberExportWorker 15 *** dynamic providers directory end ***
+[2015-03-05 23:08:30,533] worker.MemberExportWorker 15 member_id: e3c873f1be9a4aeaaab560258461efb4 was exported
+[2015-03-05 23:08:30,570] worker.MemberExportWorker 15 Reply 65432165432165432165432165432165 b9b75afa4f384e0286bc42a9d4e9e4cb 145 2
+[2015-03-05 23:08:30,571] worker.MemberExportWorker 15  [x] dict; props: <BasicProperties(['app_id=65432165432165432165432165432165', 'content_type=application/json', 'correlation_id=b9b75afa4f384e0286bc42a9d4e9e4cb', 'reply_to=amq.rabbitmq.reply-to.g2dkAA9yYWJiaXRAcmFiYml0bXEAAHAxAAAAAAE=.9iSCeki2x+jRCcDmzjrKFQ=='])>; request: {u'format': u'csv-excel', u'updated_start': None, u'filename': u'test35.csv', u'created_start': None, u'obfuscate': u'false', u'last_login_start': None, u'brands': [u'd3465876e8579c2f422e99b56d8d0567'], u'last_login_end': None, u'updated_end': None, u'created_end': None, u'view': u'standard'}; response (str): {"body": {"contains": null, "klass": "dict", "args": {"count": 4}}, "origin": "292fbce73c9e", "tries": 0, "signature": null, "type": "apiresponse", "response_time": 0.14560985565185547};
+
+
+[2015-03-05 23:08:30,508] worker.MemberExportWorker 15 No provider
+[2015-03-05 23:08:30,508] worker.MemberExportWorker 15 
+
+
+
+[2015-03-05 23:08:30,508] worker.MemberExportWorker 15 *** dynamic providers directory start ***
+[2015-03-05 23:08:30,509] worker.MemberExportWorker 15 []
+[2015-03-05 23:08:30,510] worker.MemberExportWorker 15 []
+[2015-03-05 23:08:30,510] worker.MemberExportWorker 15 *** dynamic providers directory end ***
+[2015-03-05 23:08:30,510] worker.MemberExportWorker 15 member_id: 8d7b5760667141a9ba892507f477310a was exported
+

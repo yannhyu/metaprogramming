@@ -1,3 +1,4 @@
+# using a generator to filter out evens
 def evens(stream):
     for n in stream:
     	if n % 2 == 0:

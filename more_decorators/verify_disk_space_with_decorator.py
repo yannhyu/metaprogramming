@@ -1,9 +1,11 @@
 # verify_disk_space.py
 import os
+from functools import wraps
 
 def verify_disk_space(func):
     # func is function to be wrapped
     MINIMUM = 2423009L
+    @wraps(func)
     def wrapper(*args, **kwargs):
         #print func.__name__
         # check disk space here

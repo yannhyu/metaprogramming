@@ -3,7 +3,7 @@ import os
 from functools import wraps
 
 def verify_disk_space(func):
-    # func is function to be wrapped
+    '''check disk space before writing big file to it '''
     MINIMUM = 2423009L
     @wraps(func)
     def wrapper(*args, **kwargs):

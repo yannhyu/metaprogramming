@@ -26,6 +26,8 @@ def grep(pattern, lines):
     for line in lines:
         if pattern in line:
             yield line
+            for i in range(3):
+                yield next(lines)
 
 
 # usage
